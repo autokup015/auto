@@ -1,0 +1,108 @@
+.setcsp {
+  margin: 5px;
+  float: left;
+  width: 200px;
+  margin-left: 170px;
+  margin-top: 20px;
+  display: flex;
+  flex-direction: column
+}
+
+.imgsize1 {
+  width: 520px;
+  height: 200px;
+  
+  
+}
+
+.inputName {
+  height: 20px;
+  width: 235px;
+  border-radius: 6px;
+  margin-left: 1rem;
+  margin-top: 1rem;
+}
+
+.savebtn {
+  margin-left: 310px;
+  margin-top: 40px;
+  border: 2px solid white;
+  width: 200px;
+  height: 45px;
+  background-color: #58D68D;
+  color: white;
+  border: 2px;
+  border-radius: 100px;
+  font-size: 25px;
+}
+
+/* ---------------------------------- NEW CSS -------------------------------- */
+
+.testcontainer {
+  width: 50rem;
+  height: 48rem;
+}
+
+/* แก้ไข header ทั้งหมดอยู่ตรงนี้นาจา */ 
+
+.header {
+  display: flex;
+  background-color: pink;
+  justify-content: center;
+  width: 50rem;
+}
+
+.div {
+  height: 20rem;
+  width: 50rem;
+}
+
+.csp {
+  margin: 5px;
+  float: left;
+  width: 200px;
+  margin-left: 180px;
+  margin-top: 20px;
+  display: flex;
+  flex-direction: column;
+}
+
+.button1 {
+  border-radius: 50px;
+  font-size: 20px;
+  border: 2px solid white;
+  width: 237px;
+  background-image: linear-gradient(rgb(248, 171, 238), rgb(255, 255, 255));
+  color: #7F7DBB;
+  margin-top: 10px;
+  margin-left: 7rem;
+}
+.dtcs{
+  flex-direction: row;
+  display: flex;
+}
+.h2dtcs{
+  margin-left: 3rem;
+}
+.textarea{
+  margin-left: 1rem;
+  height: 200px;
+  width: 300px;
+  margin-top: 1px;
+  padding: 1rem;
+  border-radius: 4px;
+  
+}
+.input{
+  margin-top: 1rem;
+  margin-left: 2rem;
+}
+.ps21{
+  width: 15rem;
+  height: 10rem;
+  margin-left: 7rem;
+}
+.position{
+  flex-direction: column;
+  display: flex;
+}

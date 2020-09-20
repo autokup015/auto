@@ -1,0 +1,134 @@
+@font-face {
+  font-family: 'Prompt-Regular';
+  src: url('/src/font/Prompt-Regular.ttf');
+}
+
+h1, h2, h3, h4, h5, h6, p, table {
+  /* margin-left: 1rem; */
+  font-family: 'Itim', cursive;
+}
+
+.vonique_64_Italic {
+  font-family: 'Itim', cursive;
+}
+
+.navbar-container {
+  color: #7A217A;
+  flex-direction: row;
+  display: flex;
+  padding: 14px 14px;
+}
+
+.Text {
+  flex: 1;
+}
+
+.inputSignin {
+  padding: 1px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+}
+
+.login-input {
+  margin-left: 1rem;
+  border: none;
+  border-bottom: 2px solid #A25AA2;
+}
+
+.sing-in-btn {
+  height: 30px;
+  width: 100px;
+  background-color: #A25AA2;
+  border: none;
+  color: white;
+  margin-left: 1rem;
+  border-radius: 10%;
+}
+
+.background {
+  height: 100%;
+  background-image: linear-gradient(#7F7DBB, #73A4B9, #6DB8B8);
+}
+
+.signup {
+  display: flex;
+  color: #ffff;
+  height: 28rem;
+  justify-content: center;
+}
+
+.heardersignup {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #ffff;
+}
+
+.signUpLeft {
+  flex: 1;
+  display: flex;
+  align-items: flex-start;
+  padding-left: 250px;
+  flex-direction: column;
+  margin: auto;
+}
+
+.signupright {
+  flex: 1;
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  flex-direction: column;
+  margin-top: -30px;
+}
+
+.inputt {
+  height: 20px;
+  width: 270px;
+  border-radius: 6px;
+  margin-left: 6rem;
+}
+
+.foodersignup {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #000000;
+  height: 7.4rem;
+}
+
+.button {
+  border-radius: 100px;
+  font-size: 20px;
+  border: 2px solid #FFFFFF;
+  width: 230px;
+  background-color: white;
+  color: black;
+  border: 2px solid #4CAF50;
+}
+
+.img {
+  height: 80px;
+  width: 90px;
+}
+
+.textsup {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 18px;
+}
+
+.Shopcategory {
+  width: 275px;
+}
+
+/* ------------------------------- NEW CSS --------------------------------- */
+
+.testLeft {
+  width: 30rem;
+  justify-content: center;
+  align-items: center;
+}

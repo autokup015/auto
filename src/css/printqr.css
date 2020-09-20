@@ -1,0 +1,39 @@
+.imgpromotion{
+    height: 26vh ;
+    width: 100%;
+    flex-direction: row;
+    display: flex;
+}
+.printqr{
+    margin-top: 3%;
+   
+}
+.setqrandst{
+    flex-direction: row;
+    display: flex;
+}
+.printLogo{
+    height:20vh;
+    margin-top: 3%;
+    padding-left: 15%;
+    margin-left: 22%;
+}
+.heardc {
+    margin: 1rem ;
+    font-size: 2rem;
+    font-weight: 700;
+    color: #ffffff;
+    font-family: "Lucida Console", Monaco, monospace;
+    align-items: center;
+}
+.columncontainerprint{
+    flex-direction: column;
+    display: flex;
+    border-style: solid;
+}
+.qrprintcontainer{
+    padding: 1rem;
+    display: flex;
+    justify-content: space-around;
+    align-content: center;
+}

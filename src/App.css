@@ -1,0 +1,70 @@
+.navbar-container {
+  background-color: #FFFFFF;
+  color: #7A217A;
+  flex-direction: row;
+  display: flex;
+  padding: 20px;
+}
+
+.Text {
+  flex: 1;
+}
+
+.inputSignin {
+  padding: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+}
+
+.login-input {
+  margin-left: 1rem;
+  border: none;
+  border-bottom: 2px solid #A25AA2;
+}
+
+.sing-in-btn {
+  height: 30px;
+  width: 100px;
+  background-color: #A25AA2;
+  border: none;
+  color: white;
+  margin-left: 1rem;
+  border-radius: 10%;
+}
+
+.background {
+  background-image: linear-gradient(#7F7DBB, #73A4B9, #6DB8B8);
+}
+
+.signup {
+  display: flex;
+  color: #ffff;
+}
+
+.container {
+  display: flexbox;
+  flex-direction: column;
+}
+
+.heardersignup {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #ffff;
+}
+
+.signUpLeft {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.signupright {
+  flex: 1;
+  display: flex;
+  justify-content: center;
+}

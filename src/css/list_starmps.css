@@ -1,0 +1,30 @@
+.gallery {
+  border: 1px solid #ccc;
+  float: left;
+  width: 264px;
+  height: 220px;
+}
+
+.desc {
+  padding: 10px;
+  text-align: center;
+  background-color: black;
+  color: white;
+  width: 14rem;
+}
+
+.imgsize {
+  width: 245px;
+  height: 155px;
+}
+
+.header {
+  display: flex;
+  justify-content: center;
+  width: 50rem;
+}
+
+.testcontainer {
+  width: 50rem;
+  height: 48rem;
+}
